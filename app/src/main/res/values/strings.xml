@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CCState</string>
+    <string name="date_range">Date range</string>
+    <string name="title_activity_settings">Settings</string>
+    <string name="default_billing_cycle_date">1</string>
+    <string name="key_budget_amount">key_budget_amount</string>
+    <string name="default_billing_cycle_summary_1">Billing cycle date is set to </string>
+    <string name="default_billing_cycle_summary_2">, kindly update it as per your credit card billing cycle</string>
+    <string name="title_billing_cycle_date">Billing cycle start day</string>
+    <string name="default_budget_amount">0</string>
+    <string name="key_billing_cycle_date">key_billing_cycle_date</string>
+    <string name="title_budget_amount">Budget amount</string>
+    <string name="channel_name">CC_CHANNEL</string>
+    <string name="channel_description">channel description</string>
+</resources>
